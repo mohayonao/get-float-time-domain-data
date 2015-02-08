@@ -1,0 +1,25 @@
+{
+  "name": "get-float-time-domain-data",
+  "description": "getFloatTimeDomainData for legacy Web Audio API",
+  "version": "0.1.0",
+  "authors": [
+    "nao yonamine <mohayonao@gmail.com>"
+  ],
+  "homepage": "http://mohayonao.github.io/get-float-time-domain-data/",
+  "ignore": [
+    "**/.*",
+    "package.json",
+    "lib",
+    "test"
+  ],
+  "keywords": [
+    "webaudioapi",
+    "analyser"
+  ],
+  "license": "MIT",
+  "main": "build/get-float-time-domain-data.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mohayonao/get-float-time-domain-data.git"
+  }
+}
