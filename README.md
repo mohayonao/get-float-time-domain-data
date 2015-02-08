@@ -4,7 +4,7 @@
 [![Bower](http://img.shields.io/bower/v/get-float-time-domain-data.svg?style=flat-square)](http://bower.io/search/?q=get-float-time-domain-data)
 [![License](http://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](http://mohayonao.mit-license.org/)
 
->> getFloatTimeDomainData for legacy Web Audio API
+> getFloatTimeDomainData for legacy Web Audio API
 
 ## Installation
 
