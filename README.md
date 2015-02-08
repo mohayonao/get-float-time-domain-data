@@ -6,6 +6,15 @@
 
 > getFloatTimeDomainData for legacy Web Audio API
 
+## Native API supports
+|                      | Support |
+| -------------------- |:-------:|
+| Google Chrome 40     | :o:     |
+| Firefox 35           | :o:     |
+| Safari 8             | :x:     |
+| Opera 27             | :o:     |
+| iOS 8                | :x:     |
+
 ## Installation
 
 npm:
